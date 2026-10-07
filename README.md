@@ -38,7 +38,7 @@ By the end of the quarter, I want to be able to:
 
 ## What's in here so far
 
-- **`Notebook.ipynb`**: my running class notebook. It currently covers the intro to ML, linear regression with Gradient Descent (cost surface, learning rate, the descent path down the "bowl"), and more on Gradient Descent: Ridge, Lasso and ElasticNet, Logistic Regression with binary cross-entropy, and why scaling matters.
+- **`Notebook.ipynb`**: my running class notebook. It currently covers the intro to ML, linear regression with Gradient Descent (cost surface, learning rate, the descent path down the "bowl"), and more on Gradient Descent: Ridge, Lasso and ElasticNet, Logistic Regression with binary cross-entropy, and why scaling matters. The latest section is on Support Vector Machines: the large margin and support vectors, the hinge cost, the $\lambda$ (scikit-learn's `C`) hyperparameter, SVR, and a kernelized SVM in scikit-learn.
 - **`Exercises/Exercise_Set1/`**: my first exercise set. It explores the Banknote Authentication dataset (binary classification): checking the classes, features, missing values and zero values, plus some extra visualizations I made for myself.
 
 I'll keep adding notebooks and exercise sets as the quarter goes on.
